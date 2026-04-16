@@ -1,49 +1,23 @@
-# Мій перший HTML проєкт
+# Мій перший HTML проєкт 🌐
 
-## 📌 Опис
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ТВІЙ_ЛОГІН/repository)
+![Build Status](https://github.com/ТВІЙ_ЛОГІН/repository/actions/workflows/main.yml/badge.svg)
+![GitHub license](https://img.shields.io/github/license/ТВІЙ_ЛОГІН/repository)
+![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)
 
-Цей проєкт містить базову HTML-сторінку (`index.html`), створену для ознайомлення з основами веб-розробки та роботи з Git.
+## 📌 Опис проєкту
+Цей проєкт — це моя стартова площадка у світі веб-розробки. Він містить базову HTML-сторінку, на якій я відпрацьовую навички роботи з Git, керування завданнями через **GitHub Issues** та автоматизацію процесів.
 
-## 📄 Структура проєкту
+**Основні цілі:**
+* Опанування семантичної розмітки HTML5.
+* Вивчення Workflow: гілки, коміти, Pull Requests.
+* Управління розробкою за допомогою Kanban-дошки (GitHub Projects).
 
-* `index.html` — головна сторінка сайту з простим HTML-кодом
+---
 
-## 🚀 Як запустити
+## 🚀 Як запустити проєкт
 
-1. Завантаж репозиторій:
-
-   ```bash
-   git clone https://github.com/username/repository.git
-   ```
-
-2. Перейди в папку проєкту:
-
-   ```bash
-   cd repository
-   ```
-
-3. Відкрий файл `index.html` у браузері
-
-## 🧱 Використані технології
-
-* HTML5
-
-## ✏️ Вміст сторінки
-
-Сторінка містить:
-
-* Заголовок "Привіт, світ!"
-
-## 📦 Мета проєкту
-
-* Навчитись працювати з Git
-* Освоїти базову структуру HTML-документа
-* Практика роботи з репозиторіями на GitHub
-
-## 👤 Автор
-
-Твоє ім'я
-
-## 📅 Дата створення
-
-2026
+### 1. Клонування
+Завантаж проєкт на свій комп'ютер:
+```bash
+git clone [https://github.com/ТВІЙ_ЛОГІН/repository.git](https://github.com/ТВІЙ_ЛОГІН/repository.git)
